@@ -1,0 +1,8 @@
+.product{
+   display: flex;
+   border-bottom: 1px solid gray;
+}
+.more-info {
+    display: flex;
+    justify-content: space-between;
+}
